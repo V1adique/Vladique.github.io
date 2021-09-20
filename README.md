@@ -2,7 +2,7 @@
 # Артамонов Владислав
 # Отчет о лабораторных работах
 
-## [Лабораторная 1]https://github.com/V1adique/Vladique.github.io.wiki.git
+## ![Лабораторная 1](https://github.com/V1adique/Vladique.github.io.wiki.git)
 
 
 
